@@ -29,7 +29,7 @@ layout: post
   - Paper - [Distributed Representations of Words and Phrases
     and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
   - Colab - [Word2Vec.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb)
-- 1-3. [FastText(Application Level)](1-3.FastText) - **Sentence Classification**
+- 1-3. [FastText(Application Level)](1-3.FastText) - **文本分类**
   - Paper - [Bag of Tricks for Efficient Text Classification(2016)](https://arxiv.org/pdf/1607.01759.pdf)
   - Colab - [FastText.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-3.FastText/FastText.ipynb)
 
