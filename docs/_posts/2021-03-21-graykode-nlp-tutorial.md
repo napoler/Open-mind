@@ -10,7 +10,6 @@ layout: post
 
 [访问原始数据地址](https://github.com/graykode/nlp-tutorial)
 
-## nlp-tutorial
 
 ## nlp-tutorial
 
