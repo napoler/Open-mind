@@ -20,7 +20,7 @@ This work is open sourced under the Apache License, Version 2.0.
 
 各种算法合集，各种模型合集
 
-潜在语义分析（latent semantic analysis）
+[潜在语义分析（latent semantic analysis](docs/_posts/2021-03-21-潜在语义分析.md)
 
 主题生成模型（Latent Dirichlet Allocation）
 
